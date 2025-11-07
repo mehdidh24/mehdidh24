@@ -2,7 +2,16 @@
 <h3 align="center">A passionate developper from tunisia</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehdidh24" alt="mehdidh24" /></a> </p>
+Here are some ideas to get you started:
 
+- 🔭 I’m currently working on dev projets
+- 🌱 I’m currently learning next.js,angular,php
+
+- 🤔 I’m looking for help with ...
+
+- 😄 Pronouns: medi
+- ⚡ Fun fact: enjoy
+-->
 - 🔭 I’m currently working on **php project**
 
 - 📫 How to reach me **mehdidahmouni24@gmail.com**
