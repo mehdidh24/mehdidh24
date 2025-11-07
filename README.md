@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm mehdi</h1>
 <h3 align="center">A passionate developper from tunisia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehdidh24" alt="mehdidh24" /></a> </p>
+
 
 - 🔭 I’m currently working on **php project**
 
