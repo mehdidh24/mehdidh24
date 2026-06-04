@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm mehdi</h1>
-<h3 align="center">A passionate developper from tunisia</h3>
+<h3 align="center">A passionate developer from tunisia</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehdidh24" alt="mehdidh24" /></a> </p>
 Here are some ideas to get you started:
